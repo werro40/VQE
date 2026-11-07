@@ -3,5 +3,5 @@
 
 Built with Qiskit.
 
-- Code: Notebook.ipynb
+- Code: VQE_nb.ipynb
 - Report: Report.pdf
