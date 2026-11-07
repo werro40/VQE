@@ -1,7 +1,7 @@
 # VQE
-Variational Quantum Eigensolver
+## Variational Quantum Eigensolver
 
 Built with Qiskit.
 
-Code: Notebook.ipynb
-Report: Report.pdf
+- Code: Notebook.ipynb
+- Report: Report.pdf
